@@ -1,0 +1,18 @@
+body{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+  }
+  
+  label{
+    display: block;
+    padding-top: 1rem;
+  }
+  
+  button{
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    color: white;
+    background-color: black; 
+  }
